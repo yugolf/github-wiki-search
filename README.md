@@ -1,3 +1,13 @@
+「Github Wiki Search」をGitBucket向けにカスタマイズしたものです。
+サーバーは固定なので、変更しないとダメです。
+
+### 利用手順
+
+1. git clone
+2. サーバー名の変更（manifest.jsonの22行目）
+3. chrome://extensions/の「パッケージ化されていない拡張機能を読み込み」から取込み
+
+
 Github Wiki Search
 ==================
 

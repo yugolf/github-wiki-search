@@ -1,4 +1,4 @@
-「Github Wiki Search」をGitBucket向けにカスタマイズしたものです。
+「Github Wiki Search」をGitBucket3.0向けに無理やりカスタマイズしたものです。
 サーバーは固定なので、変更しないとダメです。
 
 ### 利用手順

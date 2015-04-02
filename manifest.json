@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "GitBucket Wiki Search",
+  "name": "GitHub Wiki Search fro GitBucket",
   "version": "1.4.0",
   "description": "Search wiki of the repository on GitBucket",
   "icons": {
@@ -19,7 +19,7 @@
         "github-wiki-search.user.js"
       ],
       "matches": [
-        "http://<sever>:<port>/*"
+        "http://<server>:<port>/*"
       ]
     }
   ]

@@ -297,7 +297,9 @@
   };
 
   function allowedLocation(callback) {
+    if (/^https?:\/\/.*?\/.*?\/wiki/.test(location.href)) {
       callback();
+    }
   }
 
   var MutationObserver = window.MutationObserver || window.WebKitMutationObserver || window.MozMutationObserver;

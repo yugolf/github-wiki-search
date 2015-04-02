@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name           GitBucket Wiki Search
+// @name           GitHub Wiki Search for GitBucket
 // @description    Search wiki of the repository on GitBucket.
 // @namespace      linyows
-// @include        http://<server>/*
+// @include        http://<server>:<port>/*
 // @namespace      http://userscripts.org/scripts/show/129930
 // @author         linyows <linyows@gmail.com>
 // @version        1.4.0-1
